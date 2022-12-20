@@ -1,0 +1,34 @@
+.rodape{
+    width:100%; 
+    position:static; 
+    bottom:0px;
+    
+    
+}
+.box1{
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 100%, rgba(4,0,255,1) 100%);
+    height: 60px;
+
+
+}
+
+.box2{
+    /* background-color: #38b6ff; */
+    height: 30px;
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 100%, rgba(4,0,255,1) 100%);
+
+
+}
+
+.redes{
+    font-size: 30px !important;
+    color: #ffde59;
+    text-align: center;
+}
+
+.texto-footer{
+    color: #ffde59;
+}
+
