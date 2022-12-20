@@ -10,7 +10,7 @@ function NavbarTeste() {
         <>
             <AppBar position="fixed" className='navbar'>
                 <Toolbar className='fundo' variant="dense" >
-                    <Box className='logo' mr={120} >
+                    <Box className='logo' mr={100} >
                         <img src="https://raw.githubusercontent.com/tadyello/Gen-JavaScript/main/meulogo1.2.png" alt='logoMentalize' />
                     </Box>
                     <Box display="flex" justifyContent="end">
