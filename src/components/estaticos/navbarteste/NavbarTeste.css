@@ -1,0 +1,32 @@
+
+.cursor {
+    color: white;
+    cursor: pointer;
+}
+
+* {
+    text-decoration: none;
+}
+
+.fundo {
+    height: 80px;
+    /* background-color: #38b6ff; */
+    /* background: rgb(56,182,255);
+    background: linear-gradient(180deg, rgba(56,182,255,1) 0%, rgba(0,135,193,1) 0%, rgba(0,212,255,1) 100%); */
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 100%, rgba(4,0,255,1) 100%);   
+
+}
+
+.logo img {
+    height: 60px;
+}
+
+.texto {
+    color: #ffde59 !important;
+    
+}
+
+.item {
+    color: white !important;
+}

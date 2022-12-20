@@ -1,0 +1,23 @@
+.cursor{
+    cursor: pointer;
+}
+
+.btnModal-login{
+    border-color: white !important;
+    background-color: white !important;
+    font-weight: 700 !important;
+    border-radius: 10px !important;
+    height: 30% !important;
+    width: 30% !important;
+    font-size: 13px !important;
+    font-weight: bold !important;
+    font-style: normal !important;
+    letter-spacing: 0.78px !important;
+    text-align: center !important;
+    border: 1px solid #ffde59 !important;
+    background: #0000 !important;
+    color: #ffde59 !important;
+    transition: all 0.2s !important;
+    text-transform: uppercase !important;
+
+}

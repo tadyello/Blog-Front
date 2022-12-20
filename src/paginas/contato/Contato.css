@@ -1,0 +1,43 @@
+.container-contato{
+    text-align: center;
+    margin-top: 5%;
+    height: 50%;
+    
+}
+
+.titulo-contato{
+    margin-top: 5%!important;
+}
+.box-contato{
+    margin: 5%;
+    text-align: center!important;
+    border-radius: 1px!important;
+    border: 2px solid rgba(0, 0, 0, .125);
+    width: 30%;
+    margin-bottom: 5%;
+    
+
+}
+
+.form-contato{
+    margin-top:10%;
+    margin-bottom:15% ;
+
+
+}
+
+
+.txt-area {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    
+    width: 90%;  
+   
+}
+
+.txtdark{
+    color: black;
+    margin-top: 1%px!important;
+
+    
+}

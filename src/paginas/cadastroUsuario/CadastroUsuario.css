@@ -1,0 +1,48 @@
+.container-cadastro{
+    min-height: 100vh!important;
+    margin-top: 3.3%;
+
+
+}
+
+
+.textos2{
+    font-weight: bold !important;
+    
+}
+
+.btnCancelar{
+    margin-right: 20px !important;
+    background: red !important;
+    font-weight: 700 !important;
+    border-radius: auto !important;
+    font-family: Gilroy Regular !important;
+    font-size: 13px !important;
+    font-weight: bold !important;
+    font-style: normal !important;
+    letter-spacing: 0.78px !important;
+    text-align: center !important;
+    border: 1px solid red !important;
+    color: white !important;
+    transition: all 0.2s !important;
+    text-transform: uppercase !important;
+
+
+}
+
+.btnCadastrar {
+    font-weight: 700 !important;
+    border-radius: auto !important;
+    font-family: Gilroy Regular !important;
+    font-size: 13px !important;
+    font-weight: bold !important;
+    font-style: normal !important;
+    letter-spacing: 0.78px !important;
+    text-align: center !important;
+    border: 1px solid #ffde59 !important;
+    background: black !important;
+    color: white !important;
+    transition: all 0.2s !important;
+    text-transform: uppercase !important;
+
+}
